@@ -1,17 +1,22 @@
-# slot_machine_salikov
+# Лабораторная работа №9. Flutter: StatefulWidget и управление состоянием
 
-A new Flutter project.
+> Саликов Аскар ИСП-241
+> **Дата**: 02.11.2026
 
-## Getting Started
+## Что изучили
 
-This project is a starting point for a Flutter application.
+- Создание Stateful-виджетов
+- Изучили свойства для элементов интерфейса Flutter
+- Сделали анимацию прокрутки барабана с помощью асинхронности
 
-A few resources to get you started if this is your first Flutter project:
+![Скриншот финального приложения](/img/step4_salikov.png)
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Инструкция по запуску
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+git clone https://github.com/xekk829-web/Flutter_Lab9
+cd Flutter_Lab9
+flutter run -d chrome
+```
+
+> Обязательно должен быть установлен Flutter для работы приложения
